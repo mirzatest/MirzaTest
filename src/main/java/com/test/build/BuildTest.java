@@ -6,7 +6,7 @@ public class BuildTest {
 
 	@Test
 	public void devBuild() {
-		System.out.println("Hello Testers");
+		System.out.println("Hello Testers World");
 
 	}
 
